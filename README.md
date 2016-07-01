@@ -22,4 +22,3 @@ You can use the API manually via a web page here: http://xat.com/web_gear/chat/S
 * Author: xLaming
 * Version: 1.0
 * More Information: http://util.xat.com/wiki/index.php?title=SetScroller
-*
