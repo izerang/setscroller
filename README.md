@@ -9,7 +9,7 @@ Perl - Nodejs - PHP - Python
 * This feature is aimed at advanced users who want to set the chat scroller automatically from their server. e.g. showing tweets, displaying now/next on their radio station.
 You can now set a chat scroller message using an API call to xat.
 An example use is for a radio station to set the scroller to display information about the current track that is playing.
-You can use the API manually via a web page here: http://xat.com/web_gear/chat/SetScroller.phpto 
+You can use the API manually via a web page here: http://xat.com/web_gear/chat/SetScroller.php
 * Get id and pw click on "edit your chat", "extra features" and use the 2 numbers from the URL.
 
 # Notes:
