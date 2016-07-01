@@ -1,0 +1,10 @@
+{
+  "name": "script.js",
+  "version": "1.0.0",
+  "description": "Xat Scroller API",
+  "main": "script.js",
+  "author": "xLaming",
+  "dependencies": {
+    "http": "0.0.0"
+  }
+}
